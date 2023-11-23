@@ -1,0 +1,108 @@
+01234567891123456789212345678931234567
+
+[calendar] 
+
+
+
+
+nov 23
+...
+
+23 R >>> today 
+24 F - cgs$day
+25
+26
+27
+28
+29
+30
+
+dec 23
+...
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18 M - uams @ 3pm
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31 - S - address forwarding expires
+
+journal 
+...
+08/04 - F - pay > 939.44
+08/05 - A - pu.med.eco > go.ala
+08/06 - S - ca.mom 
+08/07 - M - started new dose 20x2 daily > bi
+08/08 - T - dr.wmt.5h
+08/09 - W - bi.wmt.cn
+08/10 - R - bi.wmt.cn.tm
+08/11 - F - re.goodbyethings.544
+08/13 - S - fx.cat > ca.mom
+08/14 - M > em.mar.pto.08/21 > ca.dr.mac.+2.night.1 
+08/15 - T > dr.mac.+0.night.2 > made.gf.rice-pudding
+08/16 - W > dr.mac.+2.night.3 > pd.opt.92.58 > bi.wmt.tomatoes and cucumbers
+08/17 - R - dr.mac.+0.4 > ft.cat/ca.cop/cat.wa
+08/18 - F - payday > ca.dr-mac.up> dr.mac.+2.5 > ca.dr.mac
+08/21 - M - go.uam@3p > pu.meds
+08/22 - T - meds+2.day8 > bi.wmt
+08/23 - W - changed.direct.deposit.new-bank > +0 > dr.wmt.5gal.h20 
+08/24 - R - +2.day10 > red-beans-rice.pork
+08/25 - F - +0.day11 > bi.wmt 
+08/27 - S - laundry.1load > co.new-laundry > pm.downtown
+08/28 - M - dr.wmt.h20
+09/04 - S - dr.wmt
+09/07 - R - ca.uam.aw
+09/10 - S - [xe]
+09/15 - F - att$200 > cgs$pd > [xe]
+09/21 - R - go.laundry > [xep!]
+09/23 - A - do.cleaned floor put carpet down 
+09/24 - S - called.mom > go.craighead forrest park > do.cleaned rv top > do.flushed poop chute > go.wmt gas and candy and water
+09/27 - W - mailed mom pictures
+09/28 - R - ca.uam.dr.mac.up
+10/02 - M @ 3pm.dr.albertsons.uam , go.11:30am nea
+10/10 - T > progressive rate increase, spoke to anthony lawyer re: uber case, emailed lawyer, picked up john the new dog
+10/12 - T > 11am shelter shots for john
+10/13 - F - cgs$day, ATT $208.01, pay progresssive
+10/14 - A - world 
+10/15 - S - called mom, aldi, kroger, super walmart
+10/17 - T - 3 x cbd steve's goods arrived
+10/23 - M - pu.gibsons<6pm
+11/11 - S - kroger, aldi, gas
+11/13 - M - go.uams@3pm > pay.att > pu meds from econo mart for 6 weeks
+11/14 - T - did laundry did sheets and conforter spent about $10
+11/22 - W - cgs$.arrived early
+
+
+
+
+
+
+
+
+
+
+
