@@ -15,7 +15,11 @@ jj - 002
 joy - 013
 new - 006
 rv - 007
+textjia.html - 016
+textjia.svg - textjia logo - 019
+textjia.txt - 018
 uber tampa - tampajia2.html - 012
+updates.txt - 017
 web page - zzz-hp.html - 010
 
 001 - dd.txt - data dictionary
@@ -33,3 +37,7 @@ web page - zzz-hp.html - 010
 013 - joy.txt
 014 - calendar.txt
 015 - fit.txt
+016 - textjia.html
+017 - updates.txt
+018 - textjia.txt
+019 - textjia.svg

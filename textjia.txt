@@ -1,0 +1,18 @@
+tools 
+...
+. email: textjia@yahoo.com
+. slack: 
+. twitter: 
+. proboard: 
+. instagram: 
+. wordpress: 
+. github: textjia@yahoo.com 
+. cafepress: 
+
+do 
+...
+. logo: t
+
+links
+...
+. chatgpt4: 
