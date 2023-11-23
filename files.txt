@@ -1,0 +1,35 @@
+files.txt
+...
+
+
+cgs - hondo - 005 
+cgs tools - jiacgs3.html - 011
+calendar - 014
+contacts - 003
+data directory - dd - 001
+files - 004
+fit - 015
+gf cookbook - cb.html - 009
+gf cookbook wip file - cbwip - 008
+jj - 002
+joy - 013
+new - 006
+rv - 007
+uber tampa - tampajia2.html - 012
+web page - zzz-hp.html - 010
+
+001 - dd.txt - data dictionary
+002 - jj.txt - xxx
+003 - contacts.txt
+004 - files.txt - this 
+005 - hondo.txt - 100 - cgs 
+006 - new.txt - cgs wip 
+007 - rv.txt - rv notes 
+008 - cbwip.txt - cb notes 
+009 - cb.html - cb web page 
+010 - zzz-hp.html - jiaar home page 
+011 - jiacgs3.html - cgs form
+012 - tampajia2.html 
+013 - joy.txt
+014 - calendar.txt
+015 - fit.txt

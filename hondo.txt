@@ -1,0 +1,888 @@
+hondo tickets is 100% tickets and (how long it took) - proper category/sub category coding + correct kbase linked
+...
+
+2210243 - admin rights issue/user need admin rights to pc to install jcb dla driver > used kbase# 11036 (8 min)
+
+2234597  - admin rights / genie issue/need admin access to install web gpi > remote in gave user admin rights > used kbase# 11036 (7 min)
+
+2247519  - print issue/cannot print pdf can print from word > power cycled pc and retry  > used kbase# 11805 (9 min)
+
+2191822 - adobe pro/non standard software order - user need adobe pro to edit and save .pdf files - emailed kb 11131 and instructed user to order non standard software from HEAT (5 min)
+
+2247165 - adobe pdf issue/pdf file not associated with adobe now chrome icon > open with adobe > used kbase#  (12 min)
+
+2250776 - adobe issue/cannot view pdf files from emails > remote into pc reassociate pdf files with adobe > used kbase# 11805 (10 min)
+
+ 2226209 - ARI issue/need ARI phone number > gave user phone number from kbase > used kbase# 13659 (3 min)
+
+2209759 - ATA ISSUE/FAST phone cannot get into ATA app > used kbase# 10743 (5 min)
+
+2224879 - ATA - unable to start drive/Unable to start drive on new trip - same issue as ticket 2224171 > used kbase# 10743 (8 min)
+
+2241553 - ATA ISSUE/FAST driver phone issue / NOT RECEIVING ROUTES IN ATA > used kbase# 10743 (5 min)
+
+226458 - barcode printer issue/cannot print to URM77B1 > start writer in RM > used kbase# 11292 (5 min)
+
+2251116 - BARCODE PRINTER ISSUE/cannot print to ur539b1 > start writer in RM > used kbase# 11049 (8 min)
+
+2241367 - BARCODE PRINTER ISSUE/user cannot print to barcode printer UR010B1 from RM > attached missing writer >  used kbase# 11292 (7 min)
+
+2260779 - barcode printer setup/new zebra zd421 printer setup for UR404B1 replacement > adjust margins > set correct IP for RM > used kbase#  (22 min) >>> Fri Oct 27 2023 14:20:17 GMT-0400 (Eastern Daylight Time)
+
+2247346 - barcode printer issue/cannot print from RM > attched missing writer in RM > used kbase# 14007 (6 min)
+
+2193803 - bitlocker key/pc repaired by dell need key to log in (10 min)
+
+2248192 - bitlocker issue/need bitlocker key > used kbase# 15645 (9 min)
+
+2263785 - BITLOCKER key required/user need bitlocker key for pc to boot up while on vpn > emailed key to user > used kbase# 15645 (9 min) >>> Wed Nov 01 2023 08:33:11 GMT-0400 (Eastern Daylight Time)
+
+2248617 - bitlocker key issue/lenovo tech cannot log into pc using bitlocker key 158862-384868-072380-000132-531938-382668-408848-313137 > emailed new keys to user > used kbase# 15645 (14 min)
+
+2222891 - bitlocker issue/dell tech needs bitlocker key after repair - emailed bitlocker key to dell tech > used kbase# 15645 (11 min)
+
+2196577 - bitlocker/sophos central - user need bitlocker key - followed kb 15645 emailed key (8 min)
+
+ 2258318  - bitlocker key issue/repaired pc needs bitlocker key > used kbase# 15645 (11 min) >>> Wed Oct 25 2023 08:12:49 GMT-0400 (Eastern Daylight Time)
+
+2244385 - bitlocker key issue/user needs bitlocker key for repaired pc > emailed bitlocker key > used kbase# 15645 (10 min)
+
+2221020 - catalyst print issue/cannot print from catalyst > used kbase# 11037 (9 min)
+
+2209687 - cellular issue/FAST phone voice mail issue > used kbase# 10211 (5 min)
+
+2253972 - FAST phone gps issue/gps is making user go in circles > transfer to wireless > used kbase# 10211 (5 min) >>> Fri Oct 20 2023 11:51:38 GMT-0400 (Eastern Daylight Time)
+
+2222526 - cellular issue/need to activate FAST phone > used kbase# 10211 (8 min)
+
+2226025 - chrome/browser/epro issue/cannot get parts pictures from epro > upgraded chrome  > used kbase# 15719 (18 min) >>> Thu Nov 02 2023 09:20:39 GMT-0400 (Eastern Daylight Time)
+
+2186983 - chrome/browser - user cannot access certain content on sw air web site - cleared chrome cache for all time (12 min)
+
+2249644 - chrome issue/error accessing website epermits.ctrathcona.ca > advised user that site is not reachable at this time > used kbase# 15719 (6 min)
+
+2225196 - cisco phone issue/cannot roll phone > used kbase# 10990 ( min)
+
+2185475 - concur - cannot log in using UR SSO login - all other apps are working (10 min)
+
+2190424 - concur/FAST phone - user lost concur icon - helped user download and install concur again from google play store (6 min)
+
+2221084  - concur issue/receipt in concur system need correction > used kbase# 14396 (4 min)
+
+2209065 - concur issue/expense issue all other apps are working - cannot remote expense from 7/12/23 > used kbase# 14396 (3 min)
+
+2190171 - dell/5420/hardware issue - pc will not boot up black screen - hold down power button for 20 seconds until lights go off - restart after 12 seconds > link to kb 14605 for dell 5420 (6 min)
+
+2210063 - desk phone issue/NDI/VOIP escalation > ext: 3168210 is ringing ext 3168211 is not ringing need to setup same as working ext > used kbase# 10990 (8 min)
+
+2197816 - disk space/out of disk space on c: drive > used kb 12234 to get treesizefree onto user desktop to find folder/files to delete safely to free up 22 gigs of space (17 min)
+
+2213131 - diesel issue/IDC5 SECTION missing from diesel app > used kbase# 13351 (7 min)
+
+2245470 - diesel issue/repaired pc does not have diesel installed > emailed kbase for diesel support > used kbase# 13351 (6 min)
+
+2238854 - diesel issue/need admin rights to pc  > remote into pc gave admin rights > used kbase# 11036 (7 min)
+
+2237752 - diesel issue/need diesel program installed on pc again > used kbase# 13351 (6 min)
+
+2270332 - diesel pc issue/need diesel app installed and order new diesel cable kit > emailed diesel kbase with diesel contact > used kbase# 13351 (7 min) >>> Wed Nov 08 2023 10:29:15 GMT-0500 (Eastern Standard Time)
+
+2229893 - DIESEL pc issue/cannot install diesel app onto pc > researched missing assets and scan for support assist updates found 8 gave diesel support info > used kbase# 15299 (41 min)
+
+2238868 - pc issue/pc will not boot up > warm transferred to [ kyle ] at dell > used kbase# 10240 (18 min)
+
+2264088 - pc issue / chrome issue/pc will not open chrome > power cycle pc restart after 12 seconds > used kbase# 13643 (6 min) >>> Wed Nov 01 2023 10:51:05 GMT-0400 (Eastern Daylight Time)
+
+2254079 - diesel pc issue/diesel support cannot remote into pc > 
+ > used kbase# 11036 (33 min) >>> Fri Oct 20 2023 13:23:26 GMT-0400 (Eastern Daylight Time)
+
+2250042  - pc issue / RM issue/cannot log into RM > issue resolved itself while on call > used kbase# 10308 (3 min)
+
+2248211 - pc touchpad issue/touchpad mouse not working - wired mouse works > troubleshoot windows settings > escalate to dell > used kbase# 10240 (19 min)
+
+2245030 - pc issue/pc will not boot up makes boot noise > power cycled pc and restart after 12 seconds > used kbase# 15299 (8 min)
+
+2185790 - distribution list (DL)/active directory - add and remote members - user cannot add new member via HEAT - user was creating new DL not editing existing DL (23 min)
+
+2260446 - email DL request issue/cannot submit request for new distribution list  > followed kbase to create new heat ticket for new dl > remote into pc helped user successfully create new request for new dl (user was submitting name of DL with @ur.com which generated error)> used kbase# 14296 (15 min) >>> Fri Oct 27 2023 09:47:37 GMT-0400 (Eastern Daylight Time)
+
+2187794 - dual monitor issue - cannot get 2nd monitor to work off docking station (22 min)
+
+2210300 - email issue/FAST phone email log in issue -  > used kbase# 10743 (5 min)
+
+2249485  - EMAIL ISSUE/email under quarantine need to get email out > emailed kbase remote into pc to show user how to access site > used kbase# 13839 (12 min)
+
+2248315 - email issue/getting double emails > issue resolved itself while on call > used kbase# 15116 (3 min)
+
+2241258 - EMAIL ISSUE/cannot log into email on wyse  - cannot log into webmail or outlook app from ctxvda session > escalated to pc level 2 > used kbase# 15116 (37 min)
+
+2233027 - email issues/cannot find archived sent email from may 2023 > emailed kbase regarding email retention policy > used kbase# 10222 (12 min)
+
+2221287 - email issue/email not viewing as threads > remote into pc configure outlook to view conversations > used kbase# 15299 (8 min)
+
+2222403 - EMAIL ISSUE - came in as existing ticket from Richard/cannot open email from wyse > remote into wyse exit ctx/vda and citrix workspace / verified that webmail works from base session / restart ctxvda > used kbase# 13694 (13 min)
+
+2183099 - equipment diagnostic/deutz serdia 4.0 update failed per maintenance technical email user has to call us to unblock his firewall - each time user updates it stops his current deutz serdia 2010 from working - no kbase for this yet per richard use kb 12151 for now (24 min)
+
+2182877 - equipment diagnostic/diesel transfer reslove - user got new pc need diesel app installed again - followed kb 13351 emailed kb with diesel phone number for user to call (7 min)
+
+2182097 - equipment diagnostic/genie bootloader and firmware to thumb drive D: (27 min)
+
+2186754 - equipmen diagnostic/genie web gpi - user need new install - followed kb 13579 advised user to email maintenancetechnical@ur.com (9 min)
+
+2247829  - FAST phone issue/transport ace froze up cannot restart > used kbase# 10743 (4 min)
+
+2209106 - FAST issue/not receiving emails on FAST phone > used kbase# 10743 > escalate to FAST (7 min)
+
+2265165 - FAST issue/cannot load FAST VCR > ESC TO FAST > used kbase# 10743 (14 min) >>> Thu Nov 02 2023 09:52:08 GMT-0400 (Eastern Daylight Time)
+
+2257350 - FAST issue/cannot schedule driver logical error driver already assigned to another schedule > ESC TO FAST > used kbase# 10743 (6 min) >>> Tue Oct 24 2023 11:27:49 GMT-0400 (Eastern Daylight Time)
+
+2252917 - FAST email issue/cannot receive new email since 9/5/23 > esc to fast > used kbase# 10743 (6 min)
+
+2246351 - FAST phone issue/cannot log into email on FAST phone can log into pc email > used kbase# 10743 (5 min)
+
+2241538 - FAST issue/NEED HELP ENROLLING NEW FAST PHONE > used kbase# 12772 (9 min)
+
+2257014  - FAST ISSUE/cannot access VCR from pc > remote in to install citrix workspace [FIRST TIME USE KBASE] > used kbase# 14303 (24 min) >>> Tue Oct 24 2023 09:29:46 GMT-0400 (Eastern Daylight Time)
+
+2242884 - FAST phone issue/user need help enrolling new FAST phone > TRIED TO FACTORY DATA RESET BUT STUCK > ESC TO FAST > used kbase# 10743 (6 min)
+
+2241603 - FAST phone ATA issue/not receiving trips from dispatcher in ATA - part of RM problem board issue > advised and linked to problem > used kbase# 10743 (6 min)
+
+2241480  - FAST issue/need help setting up FAST phone  > download installed email but cannot log in > esc to fast  > used kbase# 12772 (8 min)
+
+2234571 - FAST phone issue/fields service issue cannot close out work order 225173152 > used kbase# 10743 (6 min)
+
+2234168 - FAST phone issue/cannot log into email on FAST phone > used kbase# 10743 (5 min)
+
+2232132 - FAST phone issue/need help enrolling phone from home using home internet > helped user factory data reset and start enrollment > used kbase# 12772 (12 min)
+
+2187348 - FAST escalation - transport ace/condition report issue (6 min)
+
+2231833 - vcr issue/vcr will not load - only header showing > escalate to FAST > used kbase# 10743 (7 min)
+
+ 2241351 - FAST VCR issue/vcr grid window tab for pending not show IB transfers - showing correctly in add dispatch tab > used kbase# 10743 (7 min)
+
+ 2241979 - vcr issue/fast vcr all screens scrambled not lined up > used kbase# 10743 (6 min)
+
+ 2243215 - vcr issue/vcr will not open with error scheduled details cannot be bigger than map > used kbase# 10743 (5 min)
+
+ 2241949 - FAST VCR/missing sandbox toolbar cannot see trucks deliveries and pickups > used kbase# 10743 (4 min)
+
+2187766 - FAST escalation - user locked out of geotab only all other FAST apps work (6 min)
+
+2197300 - FAST/handheld/email missing - app not found - transferred from wireless - helped user download and install "samsung email" from google play store (6 min)
+
+2182847 - FAST/handheld/Galaxy S22 enrollment - warm transferred from wireless after activation - factory data reset and connect to wifi either ur-employee wifi or hotspot wifi (must be wifi not cellular or wireless data) (11 min)
+
+2186825 - FAST/handheld - lost phone - create a ticket and escalate to FAST (12 min)
+
+2204042 - FAST/handheld - UES app not taking photos - advised user to take photos using landscape mode only (9  min) 
+
+2209603 - FAST issue/ATA issue - cannot call customer from ATA now webex screens comes up > used kbase# 10743 (5 min)
+
+2212233 - fast issue/field service app > cannot close work order in FAST app > used kbase# 10743 (8 min)
+
+2248731 - FAST issue/cannot log into ATA - error invalid login > esc to fast > used kbase# 10743 (6 min)
+
+2248723 - FAST issue/cannot log into email app package not found > helped user download and install samsung email and log in > used kbase# 12772 (5 min)
+
+2248742  - FAST phone issue/did not enroll phone successfully missing apps > factory data reset reenroll phone > used kbase# 12772 (9 min)
+
+2248728  - FAST issue/transport ace not receiving new trips > escalate to FAST > used kbase# 10743 (5 min)
+
+2230036 - field svc app issue/tcp error while opening field service app on FAST phone > issue resolved itself while on call > used kbase# 10743 (5 min)
+
+2210918 - FS issue/FAST field service app issue cannot connect > used kbase# 10743 (8 min)
+
+2250899  - FAST issue/ATA not showing icons to access deliveries > esc to fast > used kbase# 10743 (6 min)
+
+2218264 - FAST issue/need access to hub 25H > TRIED TO WARM TRANSFER TO FAST BUT FAST TOLD ME TO KEEP TICKET AND TELL USER TO EMAIL ITPROVISIONING@UR.COM IF THEY HAVE ACCESS TO VCR ALREADY THERE'S NOTHING FAST CAN DO > used kbase# 10743 (9 min)
+
+2210273 - FAST phone issue/new S21 FAST phone - cannot log into email > used kbase# 10743 (7 min)
+
+2227547 - FAST issue/cannot log into geotab only all other apps are working > escalate to FAST > used kbase# 13754 (8 min)
+
+2222310 - FAST issue/does not have vcr access completed training > advised user to email itprovisioning@ur.com > used kbase# 10850 (9 min)
+
+2224632 - FAST issue/FAST VCR not showing grid with drivers - only showing toolbar and equipment window not drivers window > escalate to FAST > used kbase# 10743 (7 min)
+
+2221550 - FAST phone issue/user need help enrolling  new FAST phone > used kbase# 12772 (12 min)
+
+2213203 - FAST phone issue/cannot log into SOTI on FAST phone - access denied > used kbase# 12772 (3 min)
+
+2222463 - FAST phone issue/changed pw now he cannot log in > per lance from FAST this is an escalation only for us unless we want to try factory reset the phone > used kbase# 10743 (6 min)
+
+2213366 - FAST phone issue/several apps missing not working email/stager/yard/will call > used kbase# 12772 (8 min)
+
+2224108 - FAST phones setup/need help enrolling phone > helped user factory data reset, connect to wifi, and reenrolled FAST phone > used kbase# 12772 (6 min)
+
+2212636 - fast phone issue/missing email and concur apps > used kbase# 12772 (5 min)
+
+2222796 - FAST email issue/cannot log into email with UR credentials > used kbase# 10743 (5 min)
+
+ 2229526 - FAST email issue/cannot log into FAST email all other apps are working > used kbase# 10743 (11 min)
+
+2211442 - FAST phone issue/need help setting up new FAST phone > used kbase# 12772 (7 min)
+
+2209711 - FAST phone issue/missing samsung email app > used kbase# 10743 (7 min)
+
+2210971 - FAST setup/user need help enrolling FAST phone > used kbase# 12772 (6 min)
+
+2222516 - FAST VCR issue/everything not showing up again in VCR since enhancement it's a daily thing to call and get it fixed > used kbase# 10743 (5 min)
+
+2222508 - FAST VCR issue/need to RESET VCR views - reservation module not working  > linked to problem board for new vcr upgrade issues > used kbase# 10743 (4 min)
+
+2187383 - FAST/VCR - cannot find icon - remote into pc add icon from citrix workspace (10 min)
+
+2210827 - FAST vcr error/cannot process trip for driver - duplicate error found > used kbase# 10743 (5 min)
+
+2187923 - FAST/VCR - access issue - user completed training but cannot get access - kb 12800 (21 min)
+
+2227431  - FAST VCR issue/driver name not loading on scheduled portion of vcr > used kbase# 10743 (7 min)
+
+2211064 - FAST vcr issue/missing grid scheduling on pc using vcr > used kbase# 10743 (6 min)
+
+2201529 - epro issue > user cannot find parts on epro > followed kb 11123 advised user to email epro@ur.com (9 min)
+
+2238805 - epro/INTRANET ISSUE/EPRO issue will not open > used kbase# 11123 (23 min)
+
+2224840 - Epro Issue/cannot log into bobcat site from epro without pw > SSO not working > cleared browser cache for all times > used kbase# 15719 (15 min)
+
+2222869 - FAST phone issue/need help reenrolling phone >  helped user factory data reset, connect to wifi and renroll  FAST phone > used kbase# 12772 (8 min)
+
+2218236 - FIELD SERVICE dispatch issue/FAST/FS just spinning will not load on pc > FOLLOWED [PROBLEM BOARD] SOLUTION UPDATED CHROME AND CLEARED OUT CHORME CACHE FOR ALL TIMES > used kbase# 12800 (9 min)
+
+2227104 - field service dispatch issue/cannot log into field service app all other apps are working > linked and followed solution from problem board - updated chrome and cleared out chrome cache for all times > used kbase# 10743 (13 min)
+
+2187371 - finesse/voip issue - cannot connect to phone - followed kb 12594 escalated to call center contact (9 min)
+
+2194491 - fuel card reward program / cannot sign up activate fuel card - kb 11339 advised user to email fuelcard@ur.com (3 min)
+
+2223477 - genie issue/user need help with genie smartlink install > emailed kbase to user to contact maintenancetechnical@ur.com > used kbase# 14782 (6 min)
+
+2253940 - web gpi issue/web gpi not working after update > emailed kbase to user to contact maintenance technical > used kbase# 13579 (5 min) >>> Fri Oct 20 2023 11:32:25 GMT-0400 (Eastern Daylight Time)
+
+ 2230728 - genie issue/cannot install genie application firmware from website > issue resolved itself while on call > used kbase# 14782 (5 min)
+
+  2241718 - genie issue/firewall issue not allowing to download and program genie equipment for web gpi 4.1 > emailed kbase to user to contact maintenance technical > used kbase# 13579 (6 min)
+
+2210279 - geotab issue/did not receive email to log into geotab > used kbase# 10743  (8 min)
+
+ 2246308 - genie issue/genie web gpi app is missing need to install again > emailed kbase to contact maintenancetechnical@ur.com > used kbase# 13579 (10 min)
+
+2210285 - geotab issue/cannot log into geotab did not receive log in email > used kbase# 10743 (6 min)
+
+2230858 - geotab issue/cannot log into geotab > warm transfer to lance at FAST > used kbase# 10743 (7 min)
+
+2228333 - geotab issue/no connection to vehicle ID = 10319310 > used kbase# 10743 (5 min)
+
+2218191 - geotab issue/cannot log into geotab with UR1234 and UR123456 > used kbase# 10743 (7 min)
+
+2233010 - FAST phone issue/cannot log into geotab or email all other apps are working > issue resolved itself while on call > used kbase# 13754 (6 min)
+
+2263177 - heat question/user calling for new pc order status > emailed kbase with heat contact > used kbase# 12392 (13 min) >>> Tue Oct 31 2023 13:32:15 GMT-0400 (Eastern Daylight Time)
+
+2183172 - ISE lockout - user reported multiple lockouts in the last 2 days - he already forgot ur-employee wifi on his work and personal iphones - could not find user in splunk (may be down) - found 4 different mac address in ISE so 6 screenshots for ticket the most ever - turns out that his personal phone was one of the mac addresses and another mac was from an employee's phone that he logged in for (20 min)
+
+2228378 - ise lockout/ise lockout >  (11 min)
+
+2271771 - ISE LOCKOUT/ISE LOCKOUT >  (12 min) >>> Thu Nov 09 2023 11:15:48 GMT-0500 (Eastern Standard Time)
+
+2270207  - ise-lockout/ise-lockout >  (26 min) >>> Wed Nov 08 2023 09:35:35 GMT-0500 (Eastern Standard Time)
+
+2255175 - ise lockout/ise lockout >  (20 min) >>> Mon Oct 23 2023 08:33:19 GMT-0400 (Eastern Daylight Time)
+
+2259405 - ise lockout/ise lockout >  (19 min) >>> Thu Oct 26 2023 09:24:31 GMT-0400 (Eastern Daylight Time)
+
+2252813 - ISE LOCKOUT/ISE LOCKOUT >   (17 min)
+
+2249548 - ise-lockout/ise-lockout > (13 min)
+
+2232984 - ISE LOCKOUT/ISE LOCKOUT >   (11 min)
+
+ 2251709 - ise-lockout/ise-lockout >  (11 min)
+
+2209829 - ISE Lockout/user is locked out (11 min)
+
+2210307 - ISE LOCKOUT/password lockout ISE user is locked out > used kbase#  (9 min)
+
+2184311 - ISE lockout/password - user is locked out (10 min)
+
+2210857 - ISE lockout/user is locked out ISE lockout  (10 min)
+
+2204620 - ise lockout - unlocked user (11 min)
+
+2219554 - ISE LOCKOUT/ACCOUNT LOCKOUT DUE TO ISE  (12 min)
+
+2213192 - ISE LOCKOUT/USER IS LOCKED OUT - ISE LOCKOUT   (12 min)
+
+2213580 - ise lockout/ise lockout with 4 mac addresses   (11 min)
+
+2217167 - ise lockout/ise lockout with 4 different mac addresses   (11 min)
+
+2209734 - ise lockout/user is locked out > used kbase#  (13 min)
+
+2186913 - ISE lockout/passeord - ipad lockout (13 min)
+
+2226251 - ISE-LOCKOUT/ISE-LOCKOUT > UNLOCKED USER > 3 MAC ADDRESSES   (13 min)
+
+2246141 - ise-lockout/ise-lockout > 2 mac addresses - 4 screenshots total > used kbase#  (16 min)
+
+2244142  - ise-lockout/ise-lockout >  (11 min)
+
+2204079 - ITAM question > cannot complete ipad order on ITAM (5 min)
+
+2275053 - TV monitor issue/monitor ordered from itam arrived damaged need replacement > followed kbase escalated question to itam support > used kbase# 12718 (10 min) >>> Tue Nov 14 2023 09:37:13 GMT-0500 (Eastern Standard Time)
+
+2225170  - JCB service master issue/user need to install jcb service master again on new pc > followed kbase emailed maintenancetechnical for approval and software center push > used kbase# 12353 (10 min)
+
+2236689 - jcb service master issue/need to install jcb service master again on new pc > emailed manitenancetechnical@ur.com  > used kbase# 12353 (6 min)
+
+2186194 - lenovo/ibm thinkpad warranty repair (15 min)
+
+2184146 - lenovo/ibm thinkpad repair - kb 14690 - user has damaged pc - warm transfer to lenovo and record lenovo ref # and mark resolution item "vendor service" after transfer resolve (10 min)
+
+2184681 - lenovo support/pc hardware - backspace and enter keys failing need repair - warm transfer user to lenovo (11 min)
+
+2226087  - login issue/cannot log into wyse with new pw > not plugged in > used kbase# 10308 (4 min)
+
+2246674 - lexmark printer issue/paper jam error > error resolved itself while on call > used kbase# 14259 (4 min)
+
+2242010 - MERCHANDISE SITE ISSUE/CANNOT LOG INTO https://unitedrentalslanding.corpmerchandise.com/ SITE ACCOUNT LOCKED OUT > used kbase#  (6 min)
+
+2187840 - networking (NDI) escalation - all users at branch cannot access ur-employee wifi - user cannot find router to reset (13 min)
+
+2232080 - network issue/user requesting new data connections for new branch > escalate to NDI to create telecom order > used kbase# 10990 (7 min)
+
+2192528 - network/branch down - escalate to NDI (13 min)
+
+2265130 - network issue/third party in phillipines keeps getting auto dropped from citrix > escalated to NDI > linked to EXL kbase for 3rd party EXL > used kbase# 10990 (11 min) >>> Thu Nov 02 2023 09:37:42 GMT-0400 (Eastern Daylight Time)
+
+2184290 - non-ISE lockout/password - user is locked out (11 min)
+
+2237498 - NON-ISE Lockout/NON-ISE Lockout > unlocked user > used kbase#  (10 min)
+
+2242853 - non-ise lockout/non-ise lockout >  (7 min)
+
+2250644 - non-ise lockout/non-ise lockout >  (11 min)
+
+2250601 - non-ise lockout/non-ise lockout >   (8 min)
+
+2242862 - NON-ISE lockout/NON-ISE lockout > (7 min)
+
+2234218 - non-ise/non-ise lockout >   (12 min)
+
+2236524 - non-ise lockout/non-ise lockout > unlocked user   (8 min)
+
+2260398 - non-ise lockout/non-ise lockout >   (7 min) >>> Fri Oct 27 2023 08:56:23 GMT-0400 (Eastern Daylight Time)
+
+2230656 - non ise lockout/non ise lockout > used kbase#  (9 min)
+
+2271621 - non - ise lockout/non - ise lockout >  (8 min) >>> Thu Nov 09 2023 10:00:13 GMT-0500 (Eastern Standard Time)
+
+2257133 - non ise lockout/non ise lockout >  (12 min) >>> Tue Oct 24 2023 09:54:53 GMT-0400 (Eastern Daylight Time)
+
+2257160 - non-ise lockout/non-ise lockout >  (8 min) >>> Tue Oct 24 2023 10:02:44 GMT-0400 (Eastern Daylight Time)
+
+2249467 - non-ise lockout/non-ise lockout > unlocked user > used kbase#  (13 min)
+
+2229430 - non-ise lockout/non-ise lockout > unlocked user > used kbase# 14514 (8 min)
+
+2229400 - non-ise lockout/non-ise lockout > unlocked user > used kbase#  (8 min)
+
+2226195 - NON-ISE LOCKOUT/NON-ISE LOCKOUT > UNLOCKED USER > used kbase#  (8 min)
+
+2224991 - non-ise lockout/followed non-ise procedures to unlock user > used kbase#  (9 min)
+
+2210265 - non-ise lockout/unlocked user > used kbase# 10308 (7 min)
+
+2207129 - non-ise lockout/unlocked user account for non-ise (6 min)
+
+2186067 - non-ise lockout/password - wyse machine - fast unlock (7 min)
+
+2184776 - non-ise lockout/password - unlocked user (8 min)
+
+2214743 - NON-ISE LOCKOUT/USER IS LOCKED OUT NON-ISE LOCKOUT  (7 min)
+
+2223395 - NON-ISE LOCKOUT/pw lockout non-ise > unlocked user > used kbase#  (9 min)
+
+2214804 - non-ise lockout/user is locked out non ise lockout  (6 min)
+
+2227139 - non ise lockout/non ise lockout > unlocked user   (8 min)
+
+2213146 - non-ise lockout/user is locked out need to unlock user > used kbase#  (9 min)
+
+2208255 - non-ise lockout/user locked out > unlocked user > used kbase#  (8 min)
+
+2207091 - NON-ISE LOCKOUT/password - unlocked user (7 min)
+
+2213282 - non-ise lockout/user is locked out by ctxvda server non ise lockout > used kbase#  (7 min)
+
+2190231 - non-ise lockout/password - unlocked user (11 min)
+
+2222841 - non-ise lockout/non-ise lockout > used kbase#  (8 min)
+
+2219944 - non-ise lockout/non-ise lockout  (7 min)
+
+2190192 - non-ise lockout/password - unlocked user (12 min)
+
+2184510 - non-ise lockout - cannot log into network - unlocked user (11 min)
+
+2204387 - non-ise lockout - unlocked user (7 min)
+
+2201218 - non-ise lockout/password - unlocked user (9 min)
+
+2185747 - non-ise lockout/password - user does not get locked out all the time (8 min)
+
+2195019 - non-ise lockout/password - unlocked user (6 min)
+
+2206120 - odbc setup/refresh files > new user to odbc > followed kb 12157 setup connection and test file (11 min)
+
+2262986 - odbc refresh file issue/cannot connect odbc refresh settings on new win 11 pc > USED WINDOWS TOOLS TO CONFIGURE ODBC FOR WIN 11 > used kbase# 12157 (13 min) >>> Fri Nov 03 2023 11:48:18 GMT-0400 (Eastern Daylight Time)
+
+ 2271725 - odbc issue/user need help setting up odbc refresh files on new pc > followed kbase helped user configure odbc connection for refresh files > used kbase# 12157 (8 min) >>> Thu Nov 09 2023 11:03:36 GMT-0500 (Eastern Standard Time)
+
+2205101 - ODBC setup/refresh files > first time setup on this pc > followed kbase 12157 (11 min)
+
+2232267  - ODBC SETUP/user need help setting up refresh file connection via odbc > followed kbase configured account and odbc connection > used kbase# 12157 (13 min)
+
+2221057 - outlook issue/cannot connect to outlook server > used kbase# 14089 (6 min)
+
+2250552 - outlook issue/cannot get outlook to update > escalate to it security to get license for user > used kbase# 15116 (11 min)
+
+2250583 - outlook issue/need to free up space in mail file > showed user how to search for emails with attachments by searching "hasappatchments:yes" to clean up mail file on server > used kbase# 16018 (8 min)
+
+2232468 - outlook issue/cannot get updated email from server > remote into pc sync SSO  > used kbase# 13142 (9 min)
+
+2184430 - password expired - helped user change his pw from password.ur.com and helped him log in and sync his SSO account after pw change (9 min)
+
+2219714 - pw error/pw expired > reset pw per manager's email and gave new pw to the user over the phone > used kbase# 10308 (8 min)
+
+2210839 - pw issue/user need help changing pw > used kbase# 10308 (8 min)
+
+2262773 - pw reset per manager email request/manager email received > reset pw per manager's email request and gave pw over the phone to user > used kbase# 10308 (29 min) >>> Tue Oct 31 2023 09:23:02 GMT-0400 (Eastern Daylight Time)
+
+2209877 - pw issue/need to reset pw > used kbase# 10308 (7 min)
+
+2255380 - pw reset/manager's email received > used kbase# 10308 (10 min) >>> Mon Oct 23 2023 09:48:10 GMT-0400 (Eastern Daylight Time)
+
+2253186 - pc issue/2 monitors will not work via docking station > helped user power cycle pc and docking station and restart after 12 seconds > used kbase# 15299 (6 min)
+
+2237640 - pc issue/multi monitor issue 2 out of 4 are working > user found monitor not powered on > used kbase# 12172 (24 min)
+
+2237627 - pw issue/cannot log into network after pw change > helped user log into network via vpn and sync account > used kbase# 10308 (6 min)
+
+2231842 - pw issue/pw expired need help changing pw > helped user change his pw from password.ur.com > used kbase# 10308 (10 min)
+
+2210233 - PW ISSUE/cannot log into network > used kbase# 10308 (4 min)
+
+2226227 - pw issue/manager email received to reset pw for user > reset pw and gave user pw over the phone > used kbase# 10308 (11 min)
+
+2214557 - pw reset/new hire need pw reset manager emailed request > used kbase# 10350 (7 min)
+
+ 2240440 - pw issue/cannot log into wyse > new pw not synced > used kbase# 10308 (11 min)
+
+2184486 - password reset/manager's email - new employee need pw - manager called - verified correct manager to send email - advised manager to email passwordreset@ur.com - reset pw and gave temp pw to manager over the phone (7 min)
+
+2208460 - pw issue/pw reset email to us > used kbase# 10308 (6 min)
+
+2222171 - pc issue/pc will not power up screen black power light on > used kbase# 14702 (18 min)
+
+2235169  - pc issue/cannot update pc successfully > used kbase# 14702 (10 min)
+
+2236524 - pc issue/display port issue need repaired or replaced > warm transfer to dell > used kbase# 10240 (9 min)
+
+2231958 - pw issue/need help changing pw that is expiring today > helped user change pw after receiving email > used kbase# 10308 (12 min)
+
+2202628 - pc repair/asset management return - pc out of warranty (8 min)
+
+2232959 - PC REPAIR - wyse dropped off domain/security db trust relationship error on wyse > escalate ticket to AM/repair > used kbase# 11629 (9 min)
+
+2222718  - pc issue/blue screen error pc will not boot up > used kbase# 11629 (8 min)
+
+2225135 - pc issue/need help backing up pc > helped user map network drive to move files from old pc to new > used kbase# 11030 (14 min)
+
+2191421 - pc repair/dell pro support under warranty - pc will not boot up black screen only (16 min)
+
+2231868 - REPAIR - wyse shown as stolen /cannot log into wyse - shown as stolen > used kbase# 11629 (13 min)
+
+2247498  - REPAIR - wyse dropped off network/cannot log into new wyse - now used for 60 days or more > emailed shipping instructions to AM and then escalated to AM > used kbase# 11629 (16 min)
+
+2184199 - pc repair/screen will not boot up - followed kb 11629 return to asset management/repair (10 min)
+
+2202950 - pc issue/pc will not boot up > under warranty > power cycle pc and restart after 12 seconds (4 min)
+
+2190871 - pc repair/pc ran over - emailed shipping instructions to AM/Repair - escalate to AM/Repair (8 min)
+
+2190374 - polaris digital wrench/equipment diagnostics - remote into pc and gave user admin rights to pc > emailed kb to user in case he needs approval from maintenancetechnical@ur.com (10 min)
+
+2182263 - printer/basic troubleshooting/called NDI for info/escalate to RM (1 hour)
+
+2209497 - printer issue/UR379P2 not printing from RM > used kbase# 10349 (9 min)
+
+2251819 - printer issue/left 1/2 page printing dark and spotty print not usable > create pointman ticket > used kbase# 14453 (15 min)
+
+2250208 - printer issue/am return for disposal > escalate to am disposal > used kbase# 14140 (8  min)
+
+2252067 - printer issue/wrong paper setting in tray 1 > change paper to letter from folio for tray 1 and power cycled printer > used kbase# 15190 (11 min)
+
+2251094 - printer issue/cannot print to URC61P1 - paper error > change paper source and power cycle printer > used kbase# 14259 (7 min)
+
+2247093 - PRINTER ISSUE/CANNOT PRINT FROM RM > start printer in RM > used kbase# 14007 (8 min)
+
+2256947 - RM printer issue/URF59P1 will not print from RM but can print from windows > start printer in RM > verified writer is attached > used kbase# 10720 (11 min) >>> Tue Oct 24 2023 08:35:35 GMT-0400 (Eastern Daylight Time)
+
+2249417  - printer issue/wrong paper issue > escalate to pointman > used kbase# 14453 (14 min)
+
+2236207 - printer issue/every print has 1" left side faded all the way down > used kbase# 14453 (12 min)
+
+2241995 - PRINTER ISSUE - out of warranty printer repair/URL05P3 BROKEN PARTS FELL OUT OF PRINTER > used kbase# 14453 (16 min)
+
+2230845 - printer issue/printer under warranty need help from lexmark to set correct static ip address > tried to find correct ip to remote into but was unable to > warm transfer to lexmarkd > used kbase# 11684 (24 min)
+
+2226151 - printer issue/system shows that they should have 10% left on cart - cart error > open pointman ticket for out of warranty printer > used kbase# 14453 (26 min)
+
+2220924 - printer issue/cannot scan to URI33P1 - scanner disabled error > used kbase# 15812 (26 min)
+
+2227515 - printer issue/paper error on URE32P1 > changed paper source > power cycled printer > used kbase# 14720 (9 min)
+
+2220911 - printer issue/paper error on UR959P2 > used kbase# 14720 (6 min)
+
+2210188 - printer issue/cannot print from urg35p2 > used kbase# 14720 (9 min)
+
+2214679 - printer issue/pointman out of warranty printer issue / UR04AP3 need to replace cartridge > used kbase# 14453 (12 min)
+
+2216236 - printer issue/cannot print to printer with paper error > used kbase# 14720 (9 min)
+
+2219653 - printer issue/printer down cannot print from outlook or RM > printer was unplugged from phone > used kbase# 14720 (5 min)
+
+2215824 - printerlogic issue/cannot print from email to printer URH73P1 > used kbase# 14444 (7 min)
+
+2248421 - print issue/cannot print pdf from outlook to ur20bp1 and ur74dp3 - can print from RM > reinstalled printers using printerlogic > used kbase# 14444 (13 min)
+
+2225022 - printer issue - printer under warranty/new URA03C1 printer not printing right > transfer user to lexmark > used kbase# 11684 (16 min)
+
+2222667  - printerlogic issue/can print from RM but not windows > install chrome extension > remote into pc helped user install and enable chrome extension and add printer using printerlogic > used kbase# 14444 (8 min)
+
+2247357 - labeltac issue/need app and driver installed > remote into pc helped user install driver and app > used kbase# 14427 (17 min)
+
+2183309 - printer/labeltac printer error - uninstalled labeltac from control panel/program and features and then pushed labeltac driver install and labeltac app install again to software center - followed kb 14426 to install from software center but you need to review kb 12030 to know how to push a uninstalled app back to software center for install - you need to run "control panel/configuration manager/action/Application Deployment Evaluation Cycle (1st one)" to push it to software center again (27 min) 
+
+2229553 - printer labeltac issue/need help installing labeltac printer and driver onto new pc > linked to kb 12378, 14426 , and 14427 all 3 labeltac kbase > remote into pc > gave user admin rights to pc > installed labeltac driver and app from software center > used kbase# 12378 (19 min)
+
+2182002 - printer/pointman >>> printer repair with pointman (UR's 3rd party provider for out of warranty printers) (14 min)
+
+2230217  - pointman printer issue/need service on printer UR954P1 > open pointman ticket for out of warranty printer service > used kbase# 14453 (12 min)
+
+2269407 - printer issue/pointman out of warranty repair/URK36P6 not picking up paper from tray1 unless tray is full > used kbase# 14453 (14 min) >>> Wed Nov 08 2023 09:09:37 GMT-0500 (Eastern Standard Time)
+
+137043 - printer toner issue/printer need toner ASAP wrong cart received will not fit printer > printer under warranty > escalate to lexmark > issue first 2 lexmark agents hung up on me when i asked them to spell out their first name only the 3rd agent could help (india helpdesk) > used kbase# 11684 (30 min)
+
+2201295 - printer/windows/weird outlook issue >>> only user has issue printing from outlook with wrong paper source > verified paper source is correct > user can print from RM and other win apps just not from outlook emails > scan for support assist updates and found 11 updates > update and network reset (41 min)
+
+2203992 - printer/zebra - new zd421 config and ip change > printer already in RM but writer was not attached usedc 4 kbases to do this (29 min)
+
+2183048 - printer/zebra - new zd421 printer just received 1 week ago.  IP is correct but cannot adjust margins or print network label may be bad printer. Escalate to RM to add URDE1B2 with ip 10.160.136.42 to RM printer list (2 hours)
+
+2201492 - printer/zebra/zd421 > printer moved ip changed > set correct ip ending in .41 instead of .193 > unplugged network cable and power cycled printer for 12 seconds > restart and attached writer in RM (13 min)
+
+2190705 - rentalman/cannot open > replaced RM icon kb 11499 (6 min)
+
+2275643 - RM equipment issue/equipment # 11642230 equipment trailer stuck in on rent - closed out 11/6/23 > used kbase# 10944 ( min) >>> Tue Nov 14 2023 15:55:38 GMT-0500 (Eastern Standard Time)
+
+2241465 - RM printer issue/cannot print from UR960P1 > advised and linked to problem > used kbase# 14007 (4 min)
+
+2278055 - RM printer issue/cannot print to UR916P2 from RM > start printer in RM verified writer is attached in RM > used kbase# 14007 (4 min) >>> Thu Nov 16 2023 14:38:28 GMT-0500 (Eastern Standard Time)
+
+2241695  - RM printing issue/slow to print on UR263p1 from RM only win prints fine > advised and linked to printer outage on RM only > used kbase# 14007 (7 min)
+
+2241576 - rm printing issue/cannot print to URA86P1 from RM can print from win > > advised and linked to problem board for outage > used kbase# 14007 (6 min)
+
+2250573 - RM issue/RM account disabled > enabled account with ticket number > used kbase# 11075 (7 min)
+
+2260786 - RM issue/RM Icon/cannot log into RM all other apps are working > copy and paste icon to desktop again > used kbase# 11499 (9 min) >>> Fri Oct 27 2023 14:31:10 GMT-0400 (Eastern Daylight Time)
+
+2257254 - RM issue/cannot enter any options in RM > issue resolved itself while on call > used kbase# 10944 (2 min) >>> Tue Oct 24 2023 10:38:13 GMT-0400 (Eastern Daylight Time)
+
+2258330  - RM issue/RM account disabled > enable RM account  > used kbase# 11075 (5 min) >>> Wed Oct 25 2023 08:17:34 GMT-0400 (Eastern Daylight Time)
+
+2257239 - RM issue/account disabled > enabled RM account > [OUTAGE AFTERMATH] > used kbase# 11075 (4 min) >>> Tue Oct 24 2023 10:34:25 GMT-0400 (Eastern Daylight Time)
+
+2257227 - RM issue/cannot log in account disabled > enabled RM account > used kbase# 11075 (4 min) >>> Tue Oct 24 2023 10:28:35 GMT-0400 (Eastern Daylight Time)
+
+2256978 - RM issue/RM account disabled > enabled RM account > renamed javasharedresources file to backup > and replaced icon on desktop > should have done icon first to be faster on call >>> used kbase# 11499 (12 min) >>> Tue Oct 24 2023 08:55:00 GMT-0400 (Eastern Daylight Time)
+
+2256961 - RM issue/error confirming export code: RNX1255 > esc to RM > used kbase# 10944 (6 min) >>> Tue Oct 24 2023 08:42:23 GMT-0400 (Eastern Daylight Time)
+
+2255397 - RM issue/cannot log into RM > renamed javascharedresources file name to add "_backup" to name > replaced icon did not work > now blank screen > advised and linked to problem on problem board > used kbase# 11499 (13 min) >>> Mon Oct 23 2023 10:03:07 GMT-0400 (Eastern Daylight Time)
+
+2256062 - RM issue/account disabled in RM > enable account in RM > used kbase# 11075 (45 min) >>> Mon Oct 23 2023 13:02:47 GMT-0400 (Eastern Daylight Time)
+
+2255275 - RM issue/RM account disabled > enabled account in RM > used kbase# 11075 > not resolved link to problem board (13 min) >>> Mon Oct 23 2023 09:03:34 GMT-0400 (Eastern Daylight Time)
+
+2255120  - all users at branch cannot access RM/no one can access RM at branch > used kbase# 10944 > advised and linked problem (5 min) >>> Mon Oct 23 2023 08:05:17 GMT-0400 (Eastern Daylight Time)
+
+2254154 - RM issue/user account is disabled > enabled disabled RM account > used kbase# 11075 (5 min) >>> Fri Oct 20 2023 13:52:22 GMT-0400 (Eastern Daylight Time)
+
+2254145  - RM return issue/can't close return for contract # 225920543 > followed RM problem from board > esc to RM > used kbase# 10944 (7 min) >>> Fri Oct 20 2023 13:47:34 GMT-0400 (Eastern Daylight Time)
+
+2250826 - RM issue/cannot process manual credit card transactions > Escalate to RM > used kbase# 10944 (7 min)
+
+2241512 - rm print issue/cannot print to URK36P1 - also same issue with p3 can print from windows > advised and linke problem board for outage > used kbase# 14007 (5 min)
+
+2241456 - RM printing issue/not able to print to UR663P1 from RM only can print from windows > linked to problem board for outage > used kbase# 14007 (5 min)
+
+2231054 - RM issue/cannot log into RM > account disabled > enabled account again > used kbase# 11075 (11 min)
+
+2253697 - RM print issue cannot print report/cannot print parts and merchandise report > esc to RM > used kbase# 10944 (7 min)
+
+2241434 - RM PRINTER ISSUE/CANNOT PRINT FROM UR67FP1 FROM RM > linked to problem and advised user > used kbase# 14007 (6 min)
+
+2202662 - rentalman/operations > return equipment issue error (10 min)
+
+ 2253737 - RM print issue/cannot print from BOL screen > RM outage > used kbase# 10944 (4 min)
+
+2246151 - RM issue / Purchasing/cannot export inventory from RM > used kbase# 10944 (6 min)
+
+2271983  - RM EQUIPMENT ISSUE/EQUIPMENT 11670118 NOT AVAILABLE ON CONTRACT # 217395459 SHOWING AVAILABLE ON 31 SCREEN > used kbase# 10944 (8 min) >>> Thu Nov 09 2023 13:54:46 GMT-0500 (Eastern Standard Time)
+
+ 2272960 - RM swap issue/unit swap not showing correct status # 11530485 # 11225904 > used kbase# 10944 (6 min) >>> Fri Nov 10 2023 12:17:03 GMT-0500 (Eastern Standard Time)
+
+ 2253927 - RM issue/branch 239 closed out ticket from branch 589 equipment # 11181676 - shows in transit from 239 > advised and linked to problem on problem board > used kbase#  (7 min) >>> Fri Oct 20 2023 11:26:01 GMT-0400 (Eastern Daylight Time)
+
+ 2272868  - RM issue stuck in merge screen/purchasing inventory issue / cannot close input - cannot close from 15 input screen - user does not know what to do at that screen > used kbase# 10944 (9 min) >>> Fri Nov 10 2023 11:21:22 GMT-0500 (Eastern Standard Time)
+
+2233017 - RM credit memo issue/did credit for pickup - cannot do full credit for delivery and equipment - error credit amount is greater than original invoice # 224973445 amount $1,291.18 - seq 001 > esc to RM > used kbase# 10944 (6 min)
+
+2231012  - RM / rentalflow maintenance issue/cannot delete type SLS - change/remove - cannot select 4 to delete > used kbase# 10944 (7 min)
+
+2205078 - rentalman/bad icon > replaced icon > kb 11499 (8 min)
+
+2205162 - rentalman/bad icon > replaced icon > kb 11499 (5 min)
+
+2196715 - rentalman icon/replace - bad .hod icon on desktop user cannot open rentalman - verified account is good and RM account is not disabled - followed kb 11499 replaced RM icon to desktop (6 min)
+
+2212369 - rentalman issue/cannot log into rm bad icon > used kbase# 11499 (7 min)
+
+2268855 - RM issue/rental return resolution from RM did not work from previous ticket 2267642 > used kbase# 10944 (8 min) >>> Tue Nov 07 2023 08:45:55 GMT-0500 (Eastern Standard Time)
+
+2233418  - RM issue/cannot print from 21 Sales screen 11 reservation screen - can print from 33 customer screen > used kbase# 10944 (7 min)
+
+2233055 - RM issue/cannot log into RM > troubleshoot issue > replaced icon > used kbase# 11499 (17 min)
+
+2216420 - RM issue/cannot load RM after pw change - followed kb renamed javasharedresources files and restart RM > used kbase# 14816 (16 min)
+
+2230095 - RM issue/cannot log into RM - starts but will not fully open > from RM level 2 not resolved > followed kb > used kbase# 14816 (7 min)
+
+2197270 - rentalman/name change - user cannot open RM after name change - need to create new data folder for RM follow kb 12003 (29 min)
+
+2187137 - rentalman/new account - user does not have RM account - check from main RM menu 8>1>sgrant1 - emailed kb 12584 for manager to submit request or email itprovisioning@ur.com (13 min)
+
+2223507 - REPAIR - pc dropped off network/cannot log into pc - asset management repair ticket > used kbase# 11629 (15 min)
+
+2233291 - REPAIR - wyse will not power up/wyse will not power up only orange light > used kbase# 11629 (7 min)
+
+2260404 - REPAIR - pc overheating issue/pc will not boot up burning smell overheat issue > emailed shipping instructions to AM/repair > used kbase# 11629 (8 min) >>> Fri Oct 27 2023 09:04:50 GMT-0400 (Eastern Daylight Time)
+
+2257000 - REPAIR - wyse issue trust error/cannot log into wyse - dropped off network need to add back > send shipping instructions to AM > used kbase# 11629 (9 min) >>> Tue Oct 24 2023 09:04:09 GMT-0400 (Eastern Daylight Time)
+
+2228704 - RM Print Issue/cannot print from RM can print from outlook > used kbase# 14007 (5 min)
+
+2222408 - RM issue/DO NOT PRINT CONDITION REPORT EVERYTHING (CONTRACTS/RESERVATIONS/PU TICKETS) FOR branch Z36 > used kbase# 10757 (19 min)
+
+2240052 - RM issue - JAVASHAREDRESOURCES /cannot open RM stuck at login generating java error files [CALL XFER IN FROM RM]  > used kbase# 14816 (8 min)
+
+2240186 - rm pw issue/email received to reset RM pw to default  > used kbase# 10350 (11 min)
+
+2190146 - rentalman/printer - printer was in "end" status > start printer again in RM (4 min)
+
+2192135 - rentalman/printer - everything looked good in RM, printer started with writer attached > had user power cycle printer and restart after 12 seconds > end RM printer > start RM printer again > verified writer is attached in RM (11 min)
+
+2196937 - rentalman/printer - printer was in END status - start printer in RM with WW command again and verified printer's writer is attached using the WRKOUTQ command in RM > used kb 14007 (4 min)
+
+2195267 - rentalman/stuck during startup - generating white documents on desktop - used kbase for "javasharedresource" (6 min)
+
+2227203 - RM issue/Rentalman freezes on operation screen > ticket coded wrong it's a RM escalation > used kbase# 10944 (11 min)
+
+2184528 - rentalman/urmax issue - user can't see all of customer's data only his - he says he was able to see all before on RM for pc but not now using urmax for ipad - warm transfer to RM and escalate to RM (10 min)
+
+2223761 - restricted site issue/cannot create password for ISN networld web site > emailed kbase with link to submit blocked site request > used kbase# 10306 (8 min)
+
+2233097 - PW ISSUE/new user need help setting up new pw > used kbase# 10308 (15 min)
+
+2253840 - PC issue/time zone cannot be changed > remote into pc and changed time zone from control panel date and time > used kbase# 13643 (7 min) >>> Fri Oct 20 2023 10:32:23 GMT-0400 (Eastern Daylight Time)
+
+2214831 - pc issue/case split bubbled keyboard touch pad 3/8" bowed up > used kbase# 11629 (10 min)
+
+ 2274945  - pc issue/pc will not boot up > power cycle pc restart after 12 seconds > used kbase# 15794 (8 min) >>> Tue Nov 14 2023 08:15:58 GMT-0500 (Eastern Standard Time)
+
+ 2258361 - pc issue/mic not working on pc > warm transfer to eric at lenovo after checking windows settings > used kbase# 14702 (18 min) >>> Wed Oct 25 2023 08:57:02 GMT-0400 (Eastern Daylight Time)
+
+2257268  - pc issue/camera and mic not working > warm transfer to AARON at lenovo > used kbase# 14671 (16 min) >>> Tue Oct 24 2023 10:53:46 GMT-0400 (Eastern Daylight Time)
+
+2247380 - pc issue/email issue/email keeps disconnecting > could not reproduce issue > scan support assist update found 2 > update and run network reset > used kbase# 15299 (13 min)
+
+2230602 - pc issue/pc will not boot up blue screen > power cycled pc and restart after 12 seconds > used kbase# 13642 (12 min)
+
+2226426 - pc issue/cannot use page up and down feature on pc > advised user to hold down the "FN" key with page up and page down keys > used kbase# 15299 (3 min)
+
+2222436 - pc issue/pc will not boot up motherboard replaced 2 times by dell for same issue already > used kbase# 11629 (13 min)
+
+2226298 - PC ISSUE/PC WILL NOT POWER UP > warm transfer to dell > used kbase# 14605 (11 min)
+
+2251581 - pc issue/mouse not working on pc > escalate ticket to AM/repair > used kbase# 13643 (10 min)
+
+2227311 - printer issue/new cart received print faded middle to left top to bottom 60% faded - out of warranty printer need imaging unit repaired > open pointman ticket for out of warranty printer service > used kbase# 14453 (20 min)
+
+2230675 - printer issue/spring broke in printer causing paper jam error > printer under warranty > warm transfer to lexmark for service call > used kbase# 11684 (12 min)
+
+2227386 - printer issue/need new printer setup in UR network for win and RM print new printer name URL26C1 > branched not merged to use asset from branch > escalated ticket to AM > used kbase# 14140 (24 min)
+
+2184447 - ringdna issue - no sound from app - followed kb 15261 update pc first following kb 14692 - if that doesn'w work then update chrome and escalate to mysalesforce@ur.com (21 min)
+
+2260367 - RING DNA ISSUE/all other apps are working > advised user to email mysalesforce@ur.com > used kbase# 15261 (10 min) >>> Fri Oct 27 2023 08:43:45 GMT-0400 (Eastern Daylight Time)
+
+2184494 - salesforce - cannot log in new user all other apps are working - followed kb 10284 and advised user to email mysalesforce@ur.com for support (6 min)
+
+2286409  - security camera / sonitrol camera issue/NVR not working camera is working tech wants to know if the network changed > used kbase# 13167 (14 min) >>> Tue Nov 21 2023 10:03:46 GMT-0500 (Eastern Standard Time)
+
+2192619 - serdia 4.0/need to unblock firewall per maintenance technical > escalate to pc level 2 (9 min)
+
+2205132 - shared drive access/fluid solutions regional > user want access for other new users (5 min)
+
+2235205 - shared folder issue/cannot access shared folder on network > issue resolved itself while on call > used kbase# 10179 (2 min)
+
+2247174 - shared email issue/need to add new emails to shared email managed by user > emailed kbase > used kbase# 10179 (9 min)
+
+2210167 - sophos issue/need bitlocker key > used kbase# 15645 (10 min)
+
+2209695 - stager app issue/FAST phone stager issue - only show 1 order supposed to have at least 7 or 8 > used kbase# 10743 (5 min)
+
+2230184 - stager app issue/reservation no longer available to finish staging 7 light towers > escalate to FAST > used kbase# 10743 (9 min)
+
+2229408 - stager issue on FAST phone/cannot log into stager app all other apps are working on FAST phone > issue resolved itself while on call > used kbase# 10743 (6 min)
+
+2245065 - stolen pc / /user need info to file police report - notified manager > emailed kbase to file stolen asset and asset details > used kbase# 11771 (20 min)
+
+2247595 - stolen pc/PC stolen/user filed police report and notify risk - request AM to remote pc access > emailed kbase escalate to AM > used kbase# 15299 (13 min)
+
+2205140 - team viewer install/for wacker neuson wanda update install working with wacker tech support they need team viewer to help user > followed kb 14733 escalate ticket to it security (13 min)
+
+2258433 - team viewer issue/cannot download teamviewer > followed kbase gather info escalate to it security > used kbase# 14733 (12 min) >>> Wed Oct 25 2023 09:42:00 GMT-0400 (Eastern Daylight Time)
+
+2229785  - telecom issue/need tech dispatch to troubleshoot bad data drop for wyse > escalate to michael at NDI > used kbase# 10990 (15 min)
+
+2253669 - telematics issue/pc shows equipment # 11771868 not pinging > gather telematics info esc to RM > RM advised to email telematics@ur.com kbase wrong > used kbase# 10964 (13 min)
+
+ 2275632 - telematics issue/equipment 11679574 polaris UTV > used kbase# 10964 ( min) >>> Tue Nov 14 2023 15:40:29 GMT-0500 (Eastern Standard Time)
+
+ 2270713  - third party / citrix issue from philippines/exl user cannot connect to citrix after update from philippines > advised user to work with local IT > used kbase# 14274 (16 min) >>> Wed Nov 08 2023 13:57:08 GMT-0500 (Eastern Standard Time)
+
+2191744 - time/date/how to change time zone - cannot change using win 10 settings - must change using control panel/date and time (4 min)
+
+ 2238777 - time zone issue/pc showing wrong timezone for salesforce and outlook > remote into pc and changed time zone from control panel not win 10 > used kbase# 14605 (13 min)
+
+2227228 - total control issue/stuck on loading screen > emailed kbase to user to contact total control support > used kbase# 11118 (5 min)
+
+2230131 - transport ace issue/cannot load and start drive on new trips > escalate to FAST > used kbase# 10743 (6 min)
+
+2241212 - ur max issue/cannot load reservation or account > used kbase# 10944 (9 min)
+
+2225061 - urss app issue/cannot access urss observation app > emailed kbase advised user to contact urss support at urss@ur.com > used kbase# 13822 (6 min)
+
+2239271 - used equipment (UES) app issue/cannot take 3 photos it kicks off user > advised user to take all photos in landscape mode > used kbase# 14809 (6 min)
+
+2190275 - vcr/fast/pc new version > installed new version of citrix workspace from software center > cannot open vcr error see screenshot > delete vcr icon from desktop > launch vcr from citrix workspace again (28 min)
+
+2229707  - vcr issue/vcr map has nothing on it - cannot get drivers and pickups to show up > used kbase# 10743 (8 min)
+
+2234329 - vcr issue/missing vcr windows > map and detailed views > used kbase# 10743 (4
+ min)
+
+2229369 - vcr issue/modules missing after load - grid and map missing > escalate to FAST > used kbase# 10743 (13 min)
+
+2211937 - voip desktop phone issue/cannot activate a new voip phone  > used kbase# 10990 (4 min)
+
+2254164  - VOIP phone issue/cisco phone can dial out but not receiving inbound branch c74 calls > ESC TO VOIP/NDI > used kbase# 10990 (9 min) >>> Fri Oct 20 2023 14:02:25 GMT-0400 (Eastern Daylight Time)
+
+2255131 - PHONE ISSUE /cannot put any callers on park - called users cannot hear callers > ESC TO NDI > used kbase# 10990 (7 min) >>> Mon Oct 23 2023 08:13:19 GMT-0400 (Eastern Daylight Time)
+
+2250100 - voip issue/need to change access code and voice mail for extension 210 > escalate to Voip > used kbase# 10990 (6 min)
+
+2246699 - VOIP issue/branch K18/G18/G80/C86 rolling over to branch G35 - need to stop if possible > escalate to NDI/VOIP > used kbase# 10990 (8 min)
+
+2220990 - voip and telecom order/need to order 2 new data lines and 2 new ip phones for new employees > used kbase# 10990 (10 min)
+
+2184403 - vpn/cisco anyconnect update - per problem board 7906 helped user update vpn via vpn remote connection (19 min)
+
+2230882 - vpn issue/cannot log into vpn > user was using home internet with vpn > had user use phone hotspot with vpn successfully > used kbase# 10192 (6 min)
+
+2247629 - vpn issue/user need help using vpn with hotspot > used kbase# 10192 (8 min)
+
+2263913  - vpn issue/cannot connect to vpn at hotel > change name and pw of new hotspot and connect to vpn again > had to forget marriot hotel wifi first all UR employee had trouble connecting at this hotel > used kbase# 10192 (24 min) >>> Wed Nov 01 2023 09:31:03 GMT-0400 (Eastern Daylight Time)
+
+2258560 - vpn issue/cannot connect to vpn using ur-employee wifi at branch > advised user that he does not need vpn when using ur-employee wifi > used kbase# 10192 (4 min) >>> Wed Oct 25 2023 11:13:25 GMT-0400 (Eastern Daylight Time)
+
+2249435 - hotspot issue/keeps getting kicked off hotspot on phone > helped user change his iphone name and hotspot pw and log in again > used kbase# 10281 (16 min)
+
+2185560 - vpn/cisco anyconnect update - user called to verify that he is compliant with email to upgrade to 4.10.07062 (problem 7906) - remote into pc verified correct verson from control panel/programs and features - advised user how to change hot spot and pw and gave alt server address vpn.ur.com/SSL-Remote (11 min)
+
+2229744 - VPN issue/cannot log into vpn  log in failed error > helped user connect to phone hotspot and vpn > home internet is bad > used kbase# 10192 (5 min)
+
+2199571 - vpn/third party vpn - cannot connect to ur_partner_access followed kb 12508 > had user log into doppler.ur.com/PARTNER_ACCESS instead (16 min)
+
+2213160 - webmail issue/cannot log into webmail on iphone and pc > used kbase# 13142 (9 min)
+
+2226276 - website issue/cannot reach fleet response website from email link > cleared out chrome cache for all time > used kbase# 15719 (10 min)
+
+2218251 - workday issue/cannot log into workday all other apps are working > ISSUE RESOLVED ITSELF WHILE ON HOLD > used kbase# 14514 (3 min)
+
+2210205 - wyse issue/need ms office apps  > used kbase# 10525 (7 min)
+
+2258690 - wyse issue / FAST issue/cannot log into ctx/vda  > need ctx 2203 icon showing 2203 but 1907 installed > used kbase# 10525 (25 min) >>> Wed Oct 25 2023 13:08:16 GMT-0400 (Eastern Daylight Time)
+
+2249629 - wyse issue/ctx/vda icon missing from base session > verified issue > escalate to AM/repair > used kbase# 10525 (18 min)
+
+2257072  - wyse issue/running out of memory > shutdown restart wyse > used kbase# 13694 (15 min) >>> Tue Oct 24 2023 09:43:51 GMT-0400 (Eastern Daylight Time)
+
+2227265 - wyse issue/wyse low memeory error when using RM > used kbase# 13694 (11 min)
+
+2242471 - WYSE ISSUE/RECYCLING BIN ERROR DUE TO PROBLEM REPORTED > problem board issue gather server name and path > used kbase# 13694 (9 min)
+
+2242521 - wyse issue/cannot load ctxvda desktop due to problem reported > used kbase# 13694 (6 min)
+
+2242499  - WYSE ISSUE/error loading desktop ctxvda due to problem on board > used kbase# 13694 (7 min)
+
+2213213 - wyse issue/cannot log into vcr can log into ctxvda > used kbase# 10525 (17 min)
+
+2242449 - wyse issue/desktop not loading due to problem reported > used kbase# 13694 (12 min)
+
+2186092 - zebra printer/lp2844-z - this is an old zebra barcode printer - user moved printer from one area to another at same branch - bad port or data drop from port to switch - tried cable from working p1 printer and it print fine after attaching RM writer - escalate to NDI to dispatch telecom tech to troubleshoot or add new data drop (17 min)
+
+2231105 - zebra printer issue/cannot print to printer UR60AB1 from RM > attach writer in RM > used kbase# 11049 (11 min)
+
+2190677 - zebra printer/gk420d - writer not attached - wrkoutq ur403b* > "2", enter enter enter attached writer again (4 min)
+
+2252848 - barcode printer new setup/zd4321 new printer ur335b1 need to setup ip and RM printer name > used 5 kbase to configure printer to correct ip for RM team to  > used kbase# 10944 (30 min) >>> Mon Oct 23 2023 16:33:49 GMT-0400 (Eastern Daylight Time)
+
+2232345 - zebra barcode printer issue/CANNOT PRINT TO BARCODE PRINTER UR405B1 zebra gk420d >  power cycled printer and restart after 12 seconds > used kbase# 11049 (13 min)
+
+2228792 - zebra printer issue/no writer attached in RM > attached writer again in RM > used kbase# 10349 (3 min)
+
+2246432 - ZEBRA PRINTER CONFIG./USER RECEIVED NEW ZD421 PRINTER NEED HELP CONFIGURING PRINTER URDP9B1 > followed kbases to configure printer and set correct RM ip > used 4 kbase [FAST RESOLVE] > used kbase#  (15 min)
+
+ 2245381 - zebra printer issue/user need help configuring new zebra printer > used 4 kbase to do this > used kbase#  (20 min)
+
+2244279 - zebra barcode printer setup/need help setting up new zebra zd421 printer replacement > one of the most complicated calls you will get in UR queue linked to 6 kbase for this new zebra printer the new model > used kbase#  (45 min)
+
+2200706 - zebra printer/gk420d - writer not attached - attached writer in RM (5 min)
+
+2195435 - zebra zd421/new printer setup - this call was warm transferred from RM - total of 8 kbases linked - had to configure margin, smart calibration, had code correct ip address and then escalate to RM to add printer URDQ3B1 to RM server list (20 min)
+
+2198037 - zebra zd421/new replacement printer setup - used many kbases to do this ticket - see notes (32 min)
+
+2253277 - zebra gk420 issue/label printer not printing URM30B1 > cannot link to asset create agent note > attach missing writer in RM > see notes more steps to do >  2 kbase used > used kbase#  (15 min)
+
+2222824 - zebra printer issue/printer off line in RM ZTC LP2844-Z-200dpi > attached missing writer in RM > used kbase# 14007 (2 min)
