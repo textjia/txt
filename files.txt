@@ -11,12 +11,21 @@ files - 004
 fit - 015
 gf cookbook - cb.html - 009
 gf cookbook wip file - cbwip - 008
+github.svg - 027
+inbox - in.txt - 023
+jekyll.svg - 026
+jia.svg - round yellow jia circle icon - 025
 jj - 002
 joy - 013
+material.txt - material design notes - 028
 new - 006
 rv - 007
+textjia-100-days.txt - 100 days to make mo money 020 
 textjia.html - 016
-textjia.svg - textjia logo - 019
+textjia-mo-money.txt - mo money ideas/projects/products/svc - 021
+textjia-pro - projects - 022
+textjia-round.svg - textjia logo round - 024
+textjia.svg - textjia logo - original square - 019
 textjia.txt - 018
 uber tampa - tampajia2.html - 012
 updates.txt - 017
@@ -41,3 +50,16 @@ web page - zzz-hp.html - 010
 017 - updates.txt
 018 - textjia.txt
 019 - textjia.svg
+020 - textjia-100-days.txt
+021 - textjia-mo-money.txt
+022 - textjia-pro.html
+023 - in.txt
+024 - textjia-round.svg
+025 - jia.svg
+026 - jekyll.svg
+027 - github.svg
+028 - material.txt
+
+templates
+.........
+textjia-100-days-template.txt [N]

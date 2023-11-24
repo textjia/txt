@@ -1,13 +1,36 @@
 tools 
 ...
 . email: textjia@yahoo.com
-. slack: 
-. twitter: 
-. proboard: 
-. instagram: 
-. wordpress: 
+. slack: texjia.slack.com
+. twitter: twitter.com/textjia
+. proboard: texjia.freeforums.net
+. instagram: instagram.com/textjia
+. wordpress: textjia.wordpress.com
 . github: textjia@yahoo.com 
-. cafepress: 
+. ifttt: textjia@yahoo.com
+. cafepress: cafepress.com/textjia
+. wolfram: textjia@yahoo.com
+. tiktok: tiktok.com/@textjia
+. fivrr: fiverr.com/textjia
+. zoho 
+. adobe: textjia@yahoo.com 
+. canva: textjia@yahoo.com 
+. discourse serv
+. bubble textjia@yahoo.com
+. glitch textjia@yahoo.com
+. sendgrid: 
+. brevo: 
+. infinity free: jia.42web.io textjia@yahoo.com - if0_35492927! 199.59.243.225
+. elventy: 
+. netlify
+. gitlab 
+. zeit now 
+. render github textjia@yahoo.com - https://render-p806.onrender.com/
+
+
+
+. facebook 
+. youtube 
 
 do 
 ...
@@ -16,3 +39,12 @@ do
 links
 ...
 . chatgpt4: 
+https://new.express.adobe.com/tools/convert-to-svg - convert to svg from img
+
+coursetro.com
+
+1234567890123456
+Ford$F150!!!!!!!
+
+https://www.markdownguide.org/cheat-sheet/
+

@@ -2,10 +2,27 @@ updates
 ...
 Thu Nov 23 2023 09:21:31 GMT-0500 
 . textjia.html - gh
-. files.txt
+. files.txt - gh
 . zzzz-hp.html - gh
-. updates.txt
+. updates.txt - gh 
 . cb.html 
 . cbwip.txt 
 . jiacgs3.html - gh
 . textjia.svg
+
+
+https://www.favicon-generator.org/
+
+DATE: Fri Nov 24 2023 07:20:53 
+. textjia-100-days.txt
+. textjia-mo-money.txt
+. files.txt 
+. updates.txt 
+. textjia-pro.html
+. zzzz-hp.html 
+. textjia-100-days-template.txt
+. in.txt 
+. textjia-round.svg
+. hondo.txt
+
+
